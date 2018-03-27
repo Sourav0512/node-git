@@ -1,0 +1,16 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "adding a node package here.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sourav Das",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "nodemon": "^1.17.2",
+    "yargs": "^11.0.0"
+  }
+}
